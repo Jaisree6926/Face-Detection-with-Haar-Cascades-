@@ -171,27 +171,5 @@ plt.close()
 
 ```
 ## OUTPUT:
-## I) INPUT IMAGES:
-
-![image](https://github.com/user-attachments/assets/b2290352-cc7f-4674-9664-dfc3a7185e81)
-
-![image](https://github.com/user-attachments/assets/e14f345d-0509-44fb-bd87-a06687881c98)
-
-![image](https://github.com/user-attachments/assets/65eb2c01-17e3-4cc3-a653-23fa3bebf6e4)
-
-## II) FACE DETECTION:
-![image](https://github.com/user-attachments/assets/3974bd90-088b-4a41-a2fd-c231be1ca0ed)
-
-![image](https://github.com/user-attachments/assets/6e4eb118-cc07-459b-a7d7-dee05b69e37a)
-
-## III) EYE DETECTION:
-![image](https://github.com/user-attachments/assets/711a2938-6a3b-4ada-877a-75c808ccaa44)
-
-![image](https://github.com/user-attachments/assets/75695956-a0af-48ea-92d0-51ecf7ec4367)
-
-## IV) VIDEO FACE DETECTION:
-![image](https://github.com/user-attachments/assets/0315ec6e-87fa-4230-82f8-9f71124e83d6)
-
-
 ## RESULT:
 thus the given objective of face detection is done sucessfully.
